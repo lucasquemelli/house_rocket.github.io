@@ -74,6 +74,16 @@ A segunda forma é exibindo os atributos em forma de lista:
 
 4. Qual a casa mais cara?
 
-Para identificarmos a casas mais cara, devemos organizar as casas pelos seus respectivos preços (em ordem decrescente) e exibir o primeiro valor do 'id'. 
+Para identificarmos a casas mais cara, devemos organizar as casas pelos seus respectivos preços (em ordem decrescente) e exibir o primeiro valor do 'id'.
 
-![image](https://user-images.githubusercontent.com/81119854/129564245-84934170-59ab-4930-b83c-b6b669a5351e.png)
+![image](https://user-images.githubusercontent.com/81119854/129573167-e37e462d-645b-4463-a79c-180096c28d8c.png)
+
+![image](https://user-images.githubusercontent.com/81119854/129573264-384da5f3-8f18-4867-9f0d-db2efef48de8.png)
+
+5. Qual a casa com o maior número de quartos?
+
+Podemos identificar a casa com o maior número de quartos ao organizar as casas pelo número de quartos, em ordem decrescente, e exibir o primeiro valor do 'id'.
+
+![image](https://user-images.githubusercontent.com/81119854/129573396-6ee2b9c2-28e1-4e4e-85fa-87a6f516f8c4.png)
+
+![image](https://user-images.githubusercontent.com/81119854/129573663-208457c0-8c1b-48b0-af10-88fe897ff219.png)
