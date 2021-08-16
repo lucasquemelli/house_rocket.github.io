@@ -72,3 +72,8 @@ A segunda forma é exibindo os atributos em forma de lista:
 
 ![image](https://user-images.githubusercontent.com/81119854/129563180-fe4ec58a-9891-4b57-a6f2-78169c401d6f.png)
 
+4. Qual a casa mais cara?
+
+Para identificarmos a casas mais cara, devemos organizar as casas pelos seus respectivos preços (em ordem decrescente) e exibir o primeiro valor do 'id'. 
+
+![image](https://user-images.githubusercontent.com/81119854/129564245-84934170-59ab-4930-b83c-b6b669a5351e.png)
