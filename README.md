@@ -102,3 +102,10 @@ Ou simplesmente podemos exibir o número de casas com dois banheiros. Para tanto
 
 ![image](https://user-images.githubusercontent.com/81119854/129592655-b8bb7f4a-a277-4c46-909b-50a61c08697e.png)
 
+8. Qual o preço médio de todas as casas no conjunto de dados?
+
+![image](https://user-images.githubusercontent.com/81119854/129593791-698ee8d7-79f4-4ce5-bde0-0bec530af93b.png)
+
+Geralmente, são adotados 02 dígitos após a vírgula. Por isso, para arredondar, podemos fazer:
+
+![image](https://user-images.githubusercontent.com/81119854/129593941-4f0228df-0aa9-4f63-bf07-fa1b2059b980.png)
