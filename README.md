@@ -115,3 +115,9 @@ Geralmente, são adotados 02 dígitos após a vírgula. Por isso, para arredonda
 Devemos identificar as casas com 02 banheiros e calcular a média da coluna de preços para essas casas:
 
 ![image](https://user-images.githubusercontent.com/81119854/129595426-358a1672-c9a5-40c2-8798-c956d9b15f48.png)
+
+10. Qual o preço mínimo entre as casas com 03 quartos?
+
+Devemos identificar as casas com 03 quartos e procurar na coluna de preços dessas casas o valor que é mínimo.
+
+![image](https://user-images.githubusercontent.com/81119854/129596216-c02b0e6e-e806-46cf-90f2-04351dd65b19.png)
