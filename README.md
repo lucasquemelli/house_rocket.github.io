@@ -87,3 +87,10 @@ Podemos identificar a casa com o maior número de quartos ao organizar as casas 
 ![image](https://user-images.githubusercontent.com/81119854/129573396-6ee2b9c2-28e1-4e4e-85fa-87a6f516f8c4.png)
 
 ![image](https://user-images.githubusercontent.com/81119854/129573663-208457c0-8c1b-48b0-af10-88fe897ff219.png)
+
+6. Qual a soma total de quartos do conjunto de dados?
+
+![image](https://user-images.githubusercontent.com/81119854/129588286-920a68ae-c0ff-429f-96d2-d6717be9e927.png)
+
+7. Quantas casas possuem dois banheiros?
+
