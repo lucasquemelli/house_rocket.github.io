@@ -33,3 +33,13 @@ Em seguida, para melhorar a tomada de decisão, o CEO acrescentou as seguintes p
 14. Das casas com vista para o mar, quantas tem 3 quartos?
 15. Das casas com mais de 300 metros quadrados de sala de estar, quantas tem mais de 2 banheiros?
 
+# Respostas ao CEO
+
+Para responder as perguntas do CEO, primeiro importamos as bibliotecas:
+
+![image](https://user-images.githubusercontent.com/81119854/129558378-687a3784-febe-49ad-955d-2156964c8051.png)
+
+Em seguida, carregamos o arquivo com o qual vamos trabalhar:
+
+![image](https://user-images.githubusercontent.com/81119854/129560555-b2f37333-2847-4ef2-9c3a-79396489f7e2.png)
+
