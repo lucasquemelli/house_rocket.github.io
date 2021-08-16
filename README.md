@@ -43,8 +43,32 @@ Em seguida, carregamos o arquivo com o qual vamos trabalhar:
 
 ![image](https://user-images.githubusercontent.com/81119854/129560555-b2f37333-2847-4ef2-9c3a-79396489f7e2.png)
 
-Assim, podemos responder as perguntas:
+Para uma melhor visualização do problema e, assim, para uma melhor resolução, disponibilizo um screenshot do dataframe no LibreOffice:
+
+![image](https://user-images.githubusercontent.com/81119854/129561978-136dd55c-e5c9-410a-be65-ead0903f76a2.png)
 
 1. Quantas casas estão disponíveis para a compra?
 
+O número de casas disponíveis pode ser identificado a partir do número de identificação das casas. Entretanto, os números de identificação podem estar repetidos e, por isso, o código deve identificar apenas valores únicos de 'id'.
+
 ![image](https://user-images.githubusercontent.com/81119854/129561105-eac0ad33-456d-49db-9b16-9b12ad17e926.png)
+
+2. Quantos atributos as casas possuem?
+
+Os atributos são as colunas do dataframe, com exceção do número de identificação e da coluna de data.
+
+![image](https://user-images.githubusercontent.com/81119854/129562210-cd9538b0-0d68-47bf-864b-687de2f954ef.png)
+
+3. Quais são os atributos das casas?
+
+Apresentarei duas maneiras de visualizar os atributos das casas. Em ambas as formas, devemos criar um dataframe novo que exclua as coluna 'id' e 'date'. 
+
+A primeira forma é exibindo a primeira linha do dataframe:
+
+![image](https://user-images.githubusercontent.com/81119854/129562866-fe948963-aeab-4b5f-8b93-a32e35928e98.png)
+![image](https://user-images.githubusercontent.com/81119854/129562910-3cf2d7f9-2ea6-4b18-8705-a060d1e435c1.png)
+
+A segunda forma é exibindo os atributos em forma de lista:
+
+![image](https://user-images.githubusercontent.com/81119854/129563180-fe4ec58a-9891-4b57-a6f2-78169c401d6f.png)
+
