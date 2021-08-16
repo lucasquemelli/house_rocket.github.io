@@ -94,3 +94,11 @@ Podemos identificar a casa com o maior número de quartos ao organizar as casas 
 
 7. Quantas casas possuem dois banheiros?
 
+Podemos visualizar o número de casas com seus respectivos números de banheiros:
+
+![image](https://user-images.githubusercontent.com/81119854/129592070-eab0d021-204c-4e1e-8db0-f1de8081a02e.png)
+
+Ou simplesmente podemos exibir o número de casas com dois banheiros. Para tanto, localizamos as linhas em que o número de banheiros é igual a 2 (verificação em todas as colunas). Em seguida, determinamos o tamanho do dataframe com 2 banheiros.
+
+![image](https://user-images.githubusercontent.com/81119854/129592655-b8bb7f4a-a277-4c46-909b-50a61c08697e.png)
+
