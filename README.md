@@ -136,3 +136,10 @@ Ou podemos calcular de forma mais direta:
 
 ![image](https://user-images.githubusercontent.com/81119854/129604517-24a82d60-01a7-4341-99ee-c216921ebc37.png)
 
+13. Quantas casas tem vista para o mar?
+
+![image](https://user-images.githubusercontent.com/81119854/129604635-d0e962ee-4489-45b5-ac50-028148f4f17c.png)
+
+14. Das casas com vista para o mar, quantas tem 3 quartos?
+
+![image](https://user-images.githubusercontent.com/81119854/129604677-c089bdff-5946-4348-9361-f0f5debef96c.png)
