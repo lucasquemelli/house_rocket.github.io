@@ -43,3 +43,8 @@ Em seguida, carregamos o arquivo com o qual vamos trabalhar:
 
 ![image](https://user-images.githubusercontent.com/81119854/129560555-b2f37333-2847-4ef2-9c3a-79396489f7e2.png)
 
+Assim, podemos responder as perguntas:
+
+1. Quantas casas estão disponíveis para a compra?
+
+![image](https://user-images.githubusercontent.com/81119854/129561105-eac0ad33-456d-49db-9b16-9b12ad17e926.png)
