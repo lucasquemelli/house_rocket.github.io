@@ -144,5 +144,8 @@ Ou podemos calcular de forma mais direta:
 
 ![image](https://user-images.githubusercontent.com/81119854/129604677-c089bdff-5946-4348-9361-f0f5debef96c.png)
 
+![image](https://user-images.githubusercontent.com/81119854/129605342-9fa86cd8-0b89-4a18-88ca-60b921d30d61.png)
+
 15. Das casas com mais de 300 metros quadrados de sala de estar, quantas tem mais de 2 banheiros?
 
+![image](https://user-images.githubusercontent.com/81119854/129605468-5057da56-6075-43fa-8edf-2690840a3a7f.png)
