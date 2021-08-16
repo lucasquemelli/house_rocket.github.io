@@ -121,3 +121,13 @@ Devemos identificar as casas com 02 banheiros e calcular a média da coluna de p
 Devemos identificar as casas com 03 quartos e procurar na coluna de preços dessas casas o valor que é mínimo.
 
 ![image](https://user-images.githubusercontent.com/81119854/129596216-c02b0e6e-e806-46cf-90f2-04351dd65b19.png)
+
+11. Quantas casas possuem mais de 300 metros quadrados na sala de estar?
+
+Primeiramente, criamos um conjunto de dados para identificar as casas com mais de 300 m² na sala de estar. Depois, contamos a quantidade de itens nesse conjunto de dados.
+
+![image](https://user-images.githubusercontent.com/81119854/129599894-7e573a5a-b298-4422-8514-df26cba46462.png)
+
+Ou podemos calcular de forma mais direta:
+
+![image](https://user-images.githubusercontent.com/81119854/129600257-4edbcf8b-b54b-4b72-8065-232a378b98f3.png)
