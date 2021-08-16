@@ -131,3 +131,8 @@ Primeiramente, criamos um conjunto de dados para identificar as casas com mais d
 Ou podemos calcular de forma mais direta:
 
 ![image](https://user-images.githubusercontent.com/81119854/129600257-4edbcf8b-b54b-4b72-8065-232a378b98f3.png)
+
+12. Quantas casas tem mais de 2 andares?
+
+![image](https://user-images.githubusercontent.com/81119854/129604517-24a82d60-01a7-4341-99ee-c216921ebc37.png)
+
