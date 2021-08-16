@@ -109,3 +109,9 @@ Ou simplesmente podemos exibir o número de casas com dois banheiros. Para tanto
 Geralmente, são adotados 02 dígitos após a vírgula. Por isso, para arredondar, podemos fazer:
 
 ![image](https://user-images.githubusercontent.com/81119854/129593941-4f0228df-0aa9-4f63-bf07-fa1b2059b980.png)
+
+9. Qual o preço médio de casas com 02 banheiros?
+
+Devemos identificar as casas com 02 banheiros e calcular a média da coluna de preços para essas casas:
+
+![image](https://user-images.githubusercontent.com/81119854/129595426-358a1672-c9a5-40c2-8798-c956d9b15f48.png)
