@@ -143,3 +143,6 @@ Ou podemos calcular de forma mais direta:
 14. Das casas com vista para o mar, quantas tem 3 quartos?
 
 ![image](https://user-images.githubusercontent.com/81119854/129604677-c089bdff-5946-4348-9361-f0f5debef96c.png)
+
+15. Das casas com mais de 300 metros quadrados de sala de estar, quantas tem mais de 2 banheiros?
+
