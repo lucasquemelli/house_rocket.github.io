@@ -161,3 +161,18 @@ O CEO passou novas perguntas. As perguntas e as respostas podem ser vistas abaix
 Com uma busca direcionada:
 
 ![image](https://user-images.githubusercontent.com/81119854/129772090-4a5c69b5-abad-4c15-b593-b53190739799.png)
+
+2. Quantos imóveis possuem o número máximo de andares?
+
+![image](https://user-images.githubusercontent.com/81119854/129772466-6e9eceda-f975-4a91-9e14-3cebb13d9338.png)
+
+Podemos ver que 8 imóveis possuem 3.5 andares. 
+
+Podemos solucionar esse problema de uma forma diferente. Primeiramente, exibindo na tela os valores existentes de andares:
+
+![image](https://user-images.githubusercontent.com/81119854/129773560-81132409-920a-4195-9c6e-a6438e7ac04a.png)
+
+Depois, verificando os imóveis que aparecem com valor de 3.5 andares:
+
+![image](https://user-images.githubusercontent.com/81119854/129773605-004e1549-c911-40d3-8ff9-ff281aeb5972.png)
+
