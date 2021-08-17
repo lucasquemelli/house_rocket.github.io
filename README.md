@@ -156,3 +156,8 @@ O CEO passou novas perguntas. As perguntas e as respostas podem ser vistas abaix
 
 1. Qual a data do imóvel mais antigo no portfólio?
 
+![image](https://user-images.githubusercontent.com/81119854/129772007-fbf917fc-e989-4b27-8d42-8408cc478296.png)
+
+Com uma busca direcionada:
+
+![image](https://user-images.githubusercontent.com/81119854/129772090-4a5c69b5-abad-4c15-b593-b53190739799.png)
