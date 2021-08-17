@@ -224,9 +224,11 @@ Zoom:
 ![image](https://user-images.githubusercontent.com/81119854/129787292-72e40fbf-5bcd-4011-be1b-f0b1397afa5e.png)
 
 Zoom:
+
 ![image](https://user-images.githubusercontent.com/81119854/129787372-61f20a33-677c-4d64-8ed2-d86a80f90271.png)
 
 Localizando um imóvel:
+
 ![image](https://user-images.githubusercontent.com/81119854/129787583-d9ab8a48-6029-42ef-ba5c-c50f819fb729.png)
 
 Para apresentar para o CEO, o ideal é que o mapa possa ser acessado no browser. Assim, é importante salvar o mapa em um arquivo html:
