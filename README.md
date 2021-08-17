@@ -149,3 +149,10 @@ Ou podemos calcular de forma mais direta:
 15. Das casas com mais de 300 metros quadrados de sala de estar, quantas tem mais de 2 banheiros?
 
 ![image](https://user-images.githubusercontent.com/81119854/129605468-5057da56-6075-43fa-8edf-2690840a3a7f.png)
+
+# Novas perguntas
+
+O CEO passou novas perguntas. As perguntas e as respostas podem ser vistas abaixo:
+
+1. Qual a data do imóvel mais antigo no portfólio?
+
