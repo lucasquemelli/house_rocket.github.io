@@ -183,3 +183,16 @@ Também podemos selecionar apenas o 'id' e o número de andares 'floors':
 Ou podemos exibir o número de linhas e de colunas para os imóveis com 3.5 andares:
 
 ![image](https://user-images.githubusercontent.com/81119854/129774319-fdb59dbf-a141-47a1-81a6-e6a0fd61f7fc.png)
+
+3. Criar uma classificação para os imóveis, separando-os em baixo e alto padrão, de acordo com o preço.
+
+Acima de $540000,00 -> alto padrão
+Abaixo de $540000,00 -> baixo padrão
+
+Primeiro passo: criar uma coluna de níveis, cujo nome será 'level'.
+
+![image](https://user-images.githubusercontent.com/81119854/129778437-09268a6f-b035-4c4a-a692-6c86bc6a25fb.png)
+
+Segundo passo: atribuir valores de baixo e alto padrão. Consideramos 'high_standard' como alto padrão e 'low_standard' como baixo padrão.
+
+![image](https://user-images.githubusercontent.com/81119854/129778573-91dc8c65-83af-4b1d-8c95-2ccd2dc48ada.png)
