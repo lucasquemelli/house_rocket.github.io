@@ -180,3 +180,6 @@ Também podemos selecionar apenas o 'id' e o número de andares 'floors':
 
 ![image](https://user-images.githubusercontent.com/81119854/129773964-cd50ab6a-578b-4838-9748-a88db2ccf1a8.png)
 
+Ou podemos exibir o número de linhas e de colunas para os imóveis com 3.5 andares:
+
+![image](https://user-images.githubusercontent.com/81119854/129774319-fdb59dbf-a141-47a1-81a6-e6a0fd61f7fc.png)
