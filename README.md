@@ -211,3 +211,6 @@ Segundo passo: atribuir valores de baixo e alto padrão. Consideramos 'high_stan
 Para entregar o relatório, é interessante que este esteja em um arquivo csv. Para tanto, podemos fazer:
 
 ![image](https://user-images.githubusercontent.com/81119854/129783206-5a2803be-b01b-4cc5-9655-6d33015b4502.png)
+
+5. Um mapa indicando onde as casas estão localizadas geograficamente.
+
