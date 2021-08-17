@@ -207,3 +207,7 @@ Segundo passo: atribuir valores de baixo e alto padrão. Consideramos 'high_stan
 - classificação do imóvel
 
 ![image](https://user-images.githubusercontent.com/81119854/129782384-2397a96f-ec0c-4ea0-ad9f-29fd653e6031.png)
+
+Para entregar o relatório, é interessante que este esteja em um arquivo csv. Para tanto, podemos fazer:
+
+![image](https://user-images.githubusercontent.com/81119854/129783206-5a2803be-b01b-4cc5-9655-6d33015b4502.png)
