@@ -214,3 +214,7 @@ Para entregar o relatório, é interessante que este esteja em um arquivo csv. P
 
 5. Um mapa indicando onde as casas estão localizadas geograficamente.
 
+![image](https://user-images.githubusercontent.com/81119854/129787022-1ff6bdbd-dbdf-4337-8d3b-45e52c530fac.png)
+
+![image](https://user-images.githubusercontent.com/81119854/129787072-97047ba9-df12-4737-a046-2428fc93d3b3.png)
+![image](https://user-images.githubusercontent.com/81119854/129787116-49cf74fa-390c-4a56-9bbc-0e99819d55b7.png)
