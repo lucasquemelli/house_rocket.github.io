@@ -196,3 +196,14 @@ Primeiro passo: criar uma coluna de níveis, cujo nome será 'level'.
 Segundo passo: atribuir valores de baixo e alto padrão. Consideramos 'high_standard' como alto padrão e 'low_standard' como baixo padrão.
 
 ![image](https://user-images.githubusercontent.com/81119854/129778573-91dc8c65-83af-4b1d-8c95-2ccd2dc48ada.png)
+
+4. Relatório ordenado por preço e contendo as seguintes informações:
+
+- id do imóvel
+- data que o imóvel ficou disponível para compra
+- número de quartos
+- tamanho total do terreno
+- preço
+- classificação do imóvel
+
+![image](https://user-images.githubusercontent.com/81119854/129782384-2397a96f-ec0c-4ea0-ad9f-29fd653e6031.png)
