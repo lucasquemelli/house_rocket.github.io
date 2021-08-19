@@ -291,8 +291,14 @@ Conversão da coluna data para o tipo 'datetime'.
 
 4. Modifique o TIPO da Coluna “condition” para STRING.
 
-O tipo da coluna "ccondition" é inteiro:
+O tipo da coluna "condition" é inteiro:
 
 ![image](https://user-images.githubusercontent.com/81119854/130111658-7e70efb8-0a7e-4728-98fc-bd8783cf797f.png)
 
+Para alterar, fazemos:
 
+![image](https://user-images.githubusercontent.com/81119854/130112356-e2de2a5b-9a69-4388-8e24-b869c4d32cd6.png)
+
+Note que o tipo string apareceu apenas como 'O'. Para aparecer 'object', pedimos para exibir o tipo de mais uma coluna, por exemplo:
+
+![image](https://user-images.githubusercontent.com/81119854/130112578-8b6adcc0-0e57-47aa-abbc-332f9741404e.png)
