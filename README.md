@@ -358,3 +358,11 @@ Outra forma de resolver é:
 17. Quantos imóveis “new_house” foram reformados no ano de 2014?
 
 ![image](https://user-images.githubusercontent.com/81119854/130148995-8bd6af0a-c363-445b-a27c-d797b41d9f3d.png)
+
+18. Selecione as colunas: “id”, “date”, “price”, “floors”, “zipcode” pelo método:
+
+-- Direto pelo nome das colunas
+-- Pelos índices
+-- Pelos índices das linhas e o nome das colunas
+-- Índices Booleanos
+
