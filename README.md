@@ -289,4 +289,10 @@ Conversão da coluna data para o tipo 'datetime'.
 
 ![image](https://user-images.githubusercontent.com/81119854/130111172-be9c2ad5-fb03-4fde-804f-c99e2201dcff.png)
 
+4. Modifique o TIPO da Coluna “condition” para STRING.
+
+O tipo da coluna "ccondition" é inteiro:
+
+![image](https://user-images.githubusercontent.com/81119854/130111658-7e70efb8-0a7e-4728-98fc-bd8783cf797f.png)
+
 
