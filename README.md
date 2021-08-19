@@ -334,3 +334,11 @@ Outra forma de resolver é:
 11. Quantos imóveis estão com a condição igual a “regular”?
 
 ![image](https://user-images.githubusercontent.com/81119854/130145393-d9cf48db-a82c-41f8-9b45-e85799ec1bf8.png)
+
+12. Quantos imóveis estão com a condição igual a “bad” e possuem “vista para água” ?
+
+![image](https://user-images.githubusercontent.com/81119854/130146180-d815cad3-ae61-40de-9de1-573b3f5c79b7.png)
+
+13. Quantos imóveis estão com a condição igual a “good” e são “new_house”?
+
+![image](https://user-images.githubusercontent.com/81119854/130146694-1b67213e-b9db-41f5-8d09-6fba876505fc.png)
