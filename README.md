@@ -269,3 +269,12 @@ Conversão da coluna data para o tipo 'datetime'.
 
 ![image](https://user-images.githubusercontent.com/81119854/130086137-e6fac3b6-fd41-435a-93db-d3955519d8b3.png)
 
+3. Crie uma nova coluna chamada: “condition_type”
+
+- Se o valor da coluna “condition” for menor ou igual à 2 => ‘bad’
+
+- Se o valor da coluna “condition” for igual à 3 ou 4 => ‘regular’
+
+- Se o valor da coluna “condition” for igual à 5 => ‘good’
+
+![image](https://user-images.githubusercontent.com/81119854/130087848-5b149f45-53ef-48c0-b5a4-ae4f2be1be1e.png)
