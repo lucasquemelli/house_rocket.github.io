@@ -379,3 +379,4 @@ Outra forma de resolver é:
 
 19. Salve um arquivo .csv com somente as colunas do item 10 ao 17.
 
+![image](https://user-images.githubusercontent.com/81119854/130151751-0bc40189-f7a0-4a6a-bb8d-b3604d530cd8.png)
