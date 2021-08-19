@@ -373,5 +373,6 @@ Outra forma de resolver é:
 
 ![image](https://user-images.githubusercontent.com/81119854/130149995-188ad575-377c-4876-a397-8073645fbb18.png)
 
+![image](https://user-images.githubusercontent.com/81119854/130150160-ebd25665-85da-40fd-a99c-45699e684627.png)
 
 
