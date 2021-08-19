@@ -150,7 +150,7 @@ Ou podemos calcular de forma mais direta:
 
 ![image](https://user-images.githubusercontent.com/81119854/129605468-5057da56-6075-43fa-8edf-2690840a3a7f.png)
 
-# Novas perguntas 1.0
+# Perguntas e pedidos 1.0
 
 O CEO passou novas perguntas. As perguntas e as respostas podem ser vistas abaixo:
 
@@ -237,7 +237,7 @@ Para apresentar para o CEO, o ideal é que o mapa possa ser acessado no browser.
 
 [Mapa de imóveis da empresa House Rocket](http://localhost:8888/view/Desktop/mapa_house_rocket.html)
 
-# Novas perguntas 2.0
+# Perguntas e pedidos 2.0
 
 O CEO passou novas perguntas. As perguntas e as respostas podem ser vistas abaixo.
 
@@ -251,3 +251,9 @@ Conversão da coluna data para o tipo 'datetime'.
 
 ![image](https://user-images.githubusercontent.com/81119854/130085062-c559da08-ebda-48dc-ae61-36af56bfe023.png)
 
+1. Crie uma nova coluna chamada: “house_age”
+
+• Se o valor da coluna “date” for maior que 2014-01-01 => ‘new_house’
+• Se o valor da coluna “date” for menor que 2014-01-01 => ‘old_house’
+
+![image](https://user-images.githubusercontent.com/81119854/130085828-2de2d082-7525-43a8-84b8-cce9bec3f093.png)
