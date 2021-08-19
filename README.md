@@ -254,6 +254,18 @@ Conversão da coluna data para o tipo 'datetime'.
 1. Crie uma nova coluna chamada: “house_age”
 
 • Se o valor da coluna “date” for maior que 2014-01-01 => ‘new_house’
+
 • Se o valor da coluna “date” for menor que 2014-01-01 => ‘old_house’
 
 ![image](https://user-images.githubusercontent.com/81119854/130085828-2de2d082-7525-43a8-84b8-cce9bec3f093.png)
+
+2. Crie uma nova coluna chamada: “dormitory_type”
+ 
+• Se o valor da coluna “bedrooms” for igual à 1 => ‘studio’
+
+• Se o valor da coluna “bedrooms” for igual a 2 => ‘apartament’
+
+• Se o valor da coluna “bedrooms” for maior que 2 => ‘house’
+
+![image](https://user-images.githubusercontent.com/81119854/130086137-e6fac3b6-fd41-435a-93db-d3955519d8b3.png)
+
