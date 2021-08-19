@@ -354,3 +354,7 @@ Outra forma de resolver é:
 16. Qual o maior número de quartos que um imóvel do tipo “house” possui?
 
 ![image](https://user-images.githubusercontent.com/81119854/130148506-76a5758e-97f3-41e8-8a36-5738423f5e03.png)
+
+17. Quantos imóveis “new_house” foram reformados no ano de 2014?
+
+![image](https://user-images.githubusercontent.com/81119854/130148995-8bd6af0a-c363-445b-a27c-d797b41d9f3d.png)
