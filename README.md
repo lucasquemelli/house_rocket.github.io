@@ -369,4 +369,6 @@ Outra forma de resolver é:
 
 - Índices Booleanos
 
+![image](https://user-images.githubusercontent.com/81119854/130149550-705768ec-56a5-4edc-9c3b-581e09e4165e.png)
+
 
