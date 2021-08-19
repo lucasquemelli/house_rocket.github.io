@@ -327,3 +327,10 @@ Outra forma de resolver é:
 
 ![image](https://user-images.githubusercontent.com/81119854/130129624-f91ac6b2-cc95-4ec1-8bbc-6545f75589e5.png)
 
+10. Quantos imóveis tem 2 andares?
+
+![image](https://user-images.githubusercontent.com/81119854/130144929-739fae4c-b8c4-4a05-a274-b4e971565da2.png)
+
+11. Quantos imóveis estão com a condição igual a “regular”?
+
+![image](https://user-images.githubusercontent.com/81119854/130145393-d9cf48db-a82c-41f8-9b45-e85799ec1bf8.png)
