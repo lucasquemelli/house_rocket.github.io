@@ -269,6 +269,12 @@ Conversão da coluna data para o tipo 'datetime'.
 
 ![image](https://user-images.githubusercontent.com/81119854/130086137-e6fac3b6-fd41-435a-93db-d3955519d8b3.png)
 
+- Outra forma de responder é:
+
+![image](https://user-images.githubusercontent.com/81119854/130108156-1d384988-ac91-443c-9967-ce7aa909da51.png)
+
+![image](https://user-images.githubusercontent.com/81119854/130108211-d01740ce-7a18-4028-acc1-51e9d6faa8ca.png)
+
 3. Crie uma nova coluna chamada: “condition_type”
 
 - Se o valor da coluna “condition” for menor ou igual à 2 => ‘bad’
@@ -278,3 +284,8 @@ Conversão da coluna data para o tipo 'datetime'.
 - Se o valor da coluna “condition” for igual à 5 => ‘good’
 
 ![image](https://user-images.githubusercontent.com/81119854/130087848-5b149f45-53ef-48c0-b5a4-ae4f2be1be1e.png)
+
+- Outra forma de resolver pode ser:
+
+![image](https://user-images.githubusercontent.com/81119854/130109093-0745e553-cd18-47b3-ae55-a6f23fa2f83d.png)
+
