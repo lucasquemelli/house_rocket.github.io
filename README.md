@@ -361,8 +361,12 @@ Outra forma de resolver é:
 
 18. Selecione as colunas: “id”, “date”, “price”, “floors”, “zipcode” pelo método:
 
--- Direto pelo nome das colunas
--- Pelos índices
--- Pelos índices das linhas e o nome das colunas
--- Índices Booleanos
+- Direto pelo nome das colunas
+
+- Pelos índices
+
+- Pelos índices das linhas e o nome das colunas
+
+- Índices Booleanos
+
 
