@@ -335,7 +335,7 @@ Outra forma de resolver é:
 
 ![image](https://user-images.githubusercontent.com/81119854/130145393-d9cf48db-a82c-41f8-9b45-e85799ec1bf8.png)
 
-12. Quantos imóveis estão com a condição igual a “bad” e possuem “vista para água” ?
+12. Quantos imóveis estão com a condição igual a “bad” e possuem “vista para água”?
 
 ![image](https://user-images.githubusercontent.com/81119854/130146180-d815cad3-ae61-40de-9de1-573b3f5c79b7.png)
 
@@ -343,6 +343,13 @@ Outra forma de resolver é:
 
 ![image](https://user-images.githubusercontent.com/81119854/130146694-1b67213e-b9db-41f5-8d09-6fba876505fc.png)
 
-14. Qual o valor do imóvel mais caro do tipo “studio” ?
+14. Qual o valor do imóvel mais caro do tipo “studio”?
 
 ![image](https://user-images.githubusercontent.com/81119854/130147369-54c2df5e-1d5c-439b-bb54-75a901a77c19.png)
+
+15. Quantos imóveis do tipo “apartment” foram reformados em 2015?
+
+![image](https://user-images.githubusercontent.com/81119854/130148005-ec2b4722-8cbc-491e-8431-a1a060be4f6c.png)
+
+16. Qual o maior número de quartos que um imóvel do tipo “house” possui?
+
