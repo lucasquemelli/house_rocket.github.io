@@ -353,3 +353,4 @@ Outra forma de resolver é:
 
 16. Qual o maior número de quartos que um imóvel do tipo “house” possui?
 
+![image](https://user-images.githubusercontent.com/81119854/130148506-76a5758e-97f3-41e8-8a36-5738423f5e03.png)
