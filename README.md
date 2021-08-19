@@ -302,3 +302,11 @@ Para alterar, fazemos:
 Note que o tipo string apareceu apenas como 'O'. Para aparecer 'object', pedimos para exibir o tipo de mais uma coluna, por exemplo:
 
 ![image](https://user-images.githubusercontent.com/81119854/130112578-8b6adcc0-0e57-47aa-abbc-332f9741404e.png)
+
+5. Delete as colunas: “sqft_living15” e “sqft_lot15”.
+
+![image](https://user-images.githubusercontent.com/81119854/130123747-7ea24907-df27-445c-ae14-d37bc045e07a.png)
+
+Outra forma de resolver é:
+
+![image](https://user-images.githubusercontent.com/81119854/130123884-dcbe0bc5-c752-4e83-a416-dfcf33530fd1.png)
