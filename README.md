@@ -287,5 +287,6 @@ Conversão da coluna data para o tipo 'datetime'.
 
 - Outra forma de resolver pode ser:
 
-![image](https://user-images.githubusercontent.com/81119854/130109093-0745e553-cd18-47b3-ae55-a6f23fa2f83d.png)
+![image](https://user-images.githubusercontent.com/81119854/130111172-be9c2ad5-fb03-4fde-804f-c99e2201dcff.png)
+
 
