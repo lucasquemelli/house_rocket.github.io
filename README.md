@@ -322,3 +322,8 @@ Outra forma de resolver é:
 8. Qual a data mais antiga de construção de um imóvel?
 
 ![image](https://user-images.githubusercontent.com/81119854/130128934-7e1f43d8-c864-419c-a189-a0eef2c3dc01.png)
+
+9. Qual a data mais antiga de renovação de um imóvel?
+
+![image](https://user-images.githubusercontent.com/81119854/130129624-f91ac6b2-cc95-4ec1-8bbc-6545f75589e5.png)
+
