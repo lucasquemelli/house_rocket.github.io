@@ -150,7 +150,7 @@ Ou podemos calcular de forma mais direta:
 
 ![image](https://user-images.githubusercontent.com/81119854/129605468-5057da56-6075-43fa-8edf-2690840a3a7f.png)
 
-# Novas perguntas
+# Novas perguntas 1.0
 
 O CEO passou novas perguntas. As perguntas e as respostas podem ser vistas abaixo:
 
@@ -236,3 +236,18 @@ Para apresentar para o CEO, o ideal é que o mapa possa ser acessado no browser.
 ![image](https://user-images.githubusercontent.com/81119854/129788074-9691adac-edb4-4126-a1ca-d032b864b0fe.png)
 
 [Mapa de imóveis da empresa House Rocket](http://localhost:8888/view/Desktop/mapa_house_rocket.html)
+
+# Novas perguntas 2.0
+
+O CEO passou novas perguntas. As perguntas e as respostas podem ser vistas abaixo.
+
+![image](https://user-images.githubusercontent.com/81119854/130084941-9cce17f8-2778-4f63-825f-06f8311b7ed7.png)
+
+A coluna data está no formato 'object':
+
+![image](https://user-images.githubusercontent.com/81119854/130085014-c7717266-ce00-47cd-bdf7-61128c84bdce.png)
+
+Conversão da coluna data para o tipo 'datetime'. 
+
+![image](https://user-images.githubusercontent.com/81119854/130085062-c559da08-ebda-48dc-ae61-36af56bfe023.png)
+
