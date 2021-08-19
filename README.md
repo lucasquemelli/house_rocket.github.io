@@ -377,3 +377,5 @@ Outra forma de resolver é:
 
 ![image](https://user-images.githubusercontent.com/81119854/130150804-7e169c93-3c84-4b51-9d5e-c667ffcb0519.png)
 
+19. Salve um arquivo .csv com somente as colunas do item 10 ao 17.
+
