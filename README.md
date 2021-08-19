@@ -310,3 +310,15 @@ Note que o tipo string apareceu apenas como 'O'. Para aparecer 'object', pedimos
 Outra forma de resolver é:
 
 ![image](https://user-images.githubusercontent.com/81119854/130123884-dcbe0bc5-c752-4e83-a416-dfcf33530fd1.png)
+
+6. Modifique o TIPO a Coluna “yr_built” para DATE.
+
+![image](https://user-images.githubusercontent.com/81119854/130124955-f14e61f3-e44f-4049-b067-1a14b293cb33.png)
+
+7. Modifique o TIPO a Coluna “yr_renovated” para DATE.
+
+![image](https://user-images.githubusercontent.com/81119854/130126608-d63aec2d-2b0f-40ad-a699-a39f2ff9fe31.png)
+
+8. Qual a data mais antiga de construção de um imóvel?
+
+![image](https://user-images.githubusercontent.com/81119854/130128934-7e1f43d8-c864-419c-a189-a0eef2c3dc01.png)
