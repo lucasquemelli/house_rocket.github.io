@@ -375,4 +375,5 @@ Outra forma de resolver é:
 
 ![image](https://user-images.githubusercontent.com/81119854/130150160-ebd25665-85da-40fd-a99c-45699e684627.png)
 
+![image](https://user-images.githubusercontent.com/81119854/130150804-7e169c93-3c84-4b51-9d5e-c667ffcb0519.png)
 
