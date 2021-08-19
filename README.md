@@ -342,3 +342,7 @@ Outra forma de resolver é:
 13. Quantos imóveis estão com a condição igual a “good” e são “new_house”?
 
 ![image](https://user-images.githubusercontent.com/81119854/130146694-1b67213e-b9db-41f5-8d09-6fba876505fc.png)
+
+14. Qual o valor do imóvel mais caro do tipo “studio” ?
+
+![image](https://user-images.githubusercontent.com/81119854/130147369-54c2df5e-1d5c-439b-bb54-75a901a77c19.png)
