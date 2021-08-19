@@ -369,6 +369,9 @@ Outra forma de resolver é:
 
 - Índices Booleanos
 
-![image](https://user-images.githubusercontent.com/81119854/130149550-705768ec-56a5-4edc-9c3b-581e09e4165e.png)
+![image](https://user-images.githubusercontent.com/81119854/130149931-e3c1784c-cb19-4df8-8148-42a4b3af97d8.png)
+
+![image](https://user-images.githubusercontent.com/81119854/130149995-188ad575-377c-4876-a397-8073645fbb18.png)
+
 
 
