@@ -405,3 +405,7 @@ A segunda hashtag acima está errada. O correto é "selecionar a soma de preços
 
 ![image](https://user-images.githubusercontent.com/81119854/130330983-62ce1253-2e35-4c01-82d8-4807ba983c67.png)
 ![image](https://user-images.githubusercontent.com/81119854/130330990-cfed3c14-633c-4c95-8ae3-c9ed71e314eb.png)
+
+5. Qual a soma de todos os preços de compra por número de quartos e banheiros?
+
+![image](https://user-images.githubusercontent.com/81119854/130331162-7ae51828-e4d6-4e17-b561-ce5eb15c8952.png)
