@@ -447,3 +447,7 @@ O conjunto de dados:
 Contudo, para fazer um gráfico, precisamos resetar o index:
 
 ![image](https://user-images.githubusercontent.com/81119854/130332024-493d5158-dfd2-4627-959f-e6de9100c856.png)
+
+Para plotar, então, fazemos:
+
+![image](https://user-images.githubusercontent.com/81119854/130332185-34b4c282-4c0e-4299-a61c-5e4c1b060f2e.png)
