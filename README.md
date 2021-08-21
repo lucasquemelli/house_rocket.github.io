@@ -421,3 +421,21 @@ A segunda hashtag acima está errada. O correto é "selecionar a soma de preços
 8. Qual o desvio padrão do tamanho das salas dos imóveis por ano de construção?
 
 ![image](https://user-images.githubusercontent.com/81119854/130331626-fd49a9e3-27c4-428b-9d77-70c383264184.png)
+
+9. Como é o crescimento total de preços de compras dos imóveis, por ano, por dia e pela semana do ano?
+
+A coluna de datas está como tipo objeto:
+
+![image](https://user-images.githubusercontent.com/81119854/130331728-d0fcca69-2bcb-420e-aab4-a2fd7f6020fd.png)
+
+Para realizar as operações, é necessário convertê-la para o tipo data. 
+
+![image](https://user-images.githubusercontent.com/81119854/130331786-a4c8c6e8-7b24-4671-9273-6bfa02935fa2.png)
+
+Se observarmos o dataframe, veremos que o formato do campo 'date' foi alterado, porém ainda não exibe apenas o ano:
+
+![image](https://user-images.githubusercontent.com/81119854/130331842-432fde3e-dab3-4ccf-b241-4256ab408eb2.png)
+
+Para exibir apenas o ano, usamos o código:
+
+![image](https://user-images.githubusercontent.com/81119854/130331884-5fec2fa7-4803-4b86-8a89-3f264f357b51.png)
