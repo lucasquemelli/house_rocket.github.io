@@ -380,3 +380,7 @@ Outra forma de resolver é:
 19. Salve um arquivo .csv com somente as colunas do item 10 ao 17.
 
 ![image](https://user-images.githubusercontent.com/81119854/130151751-0bc40189-f7a0-4a6a-bb8d-b3604d530cd8.png)
+
+# Perguntas e pedidos 3.0
+
+![image](https://user-images.githubusercontent.com/81119854/130327545-e562c205-c991-4ccf-bec7-f87543159756.png)
