@@ -397,3 +397,11 @@ Outra forma de resolver é:
 
 ![image](https://user-images.githubusercontent.com/81119854/130330703-7a310e9c-2a2a-4ef7-a5a7-833297f7340c.png)
 
+4. Qual a soma de todos os preços de compra por número de quarto?
+
+![image](https://user-images.githubusercontent.com/81119854/130330927-c9f5245d-d709-44aa-8b30-981ca15d060d.png)
+
+A segunda hashtag acima está errada. O correto é "selecionar a soma de preços por número de quartos". O mesmo resultado por ser visto abaixo, porém sem a notação científica:
+
+![image](https://user-images.githubusercontent.com/81119854/130330983-62ce1253-2e35-4c01-82d8-4807ba983c67.png)
+![image](https://user-images.githubusercontent.com/81119854/130330990-cfed3c14-633c-4c95-8ae3-c9ed71e314eb.png)
