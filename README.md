@@ -417,3 +417,7 @@ A segunda hashtag acima está errada. O correto é "selecionar a soma de preços
 7. Qual o tamanho mediano das salas dos imóveis por ano de construção?
 
 ![image](https://user-images.githubusercontent.com/81119854/130331508-06d08485-b47b-4d46-8adf-b366f089f396.png)
+
+8. Qual o desvio padrão do tamanho das salas dos imóveis por ano de construção?
+
+![image](https://user-images.githubusercontent.com/81119854/130331626-fd49a9e3-27c4-428b-9d77-70c383264184.png)
