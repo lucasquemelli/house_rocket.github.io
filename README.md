@@ -462,8 +462,6 @@ Se quisermos aumentar:
 
 ![image](https://user-images.githubusercontent.com/81119854/130332415-88d9f16c-2209-47a2-b466-4ae3af5c7909.png)
 
-![image](https://user-images.githubusercontent.com/81119854/130332703-ae608af2-cd65-49c4-ba80-8fa8e1d7f636.png)
-
 ![image](https://user-images.githubusercontent.com/81119854/130332796-a7ae3cc2-b6db-407c-bad7-d9772f749e1c.png)
 
 ![image](https://user-images.githubusercontent.com/81119854/130332717-7f8a54de-cd79-484c-a4cb-e6158413dfcf.png)
