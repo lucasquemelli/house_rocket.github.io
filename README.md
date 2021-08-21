@@ -384,3 +384,7 @@ Outra forma de resolver é:
 # Perguntas e pedidos 3.0
 
 ![image](https://user-images.githubusercontent.com/81119854/130327545-e562c205-c991-4ccf-bec7-f87543159756.png)
+
+1. Qual o número de imóveis por ano de construção?
+
+![image](https://user-images.githubusercontent.com/81119854/130328000-f0246eee-6725-4cc1-a0dc-297d598eca24.png)
