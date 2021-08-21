@@ -481,3 +481,12 @@ Se quisermos aumentar:
 ![image](https://user-images.githubusercontent.com/81119854/130334126-e3ac6289-ad9f-41fb-879a-499a11701ee2.png)
 
 ![image](https://user-images.githubusercontent.com/81119854/130334142-e81b7489-340c-44c6-91c0-26dc99bdf49f.png)
+
+10. Um mapa que seja possível identificar as casas com maior preço.
+
+![image](https://user-images.githubusercontent.com/81119854/130336391-d38b76fb-c88d-499a-9f50-5a8c8148e400.png)
+
+![image](https://user-images.githubusercontent.com/81119854/130336393-3d719441-93ff-49bf-81aa-40de86fa3e2e.png)
+
+![image](https://user-images.githubusercontent.com/81119854/130336401-e1a98874-14e1-4c26-9fbc-4ff778adc390.png)
+
