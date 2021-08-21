@@ -409,3 +409,7 @@ A segunda hashtag acima está errada. O correto é "selecionar a soma de preços
 5. Qual a soma de todos os preços de compra por número de quartos e banheiros?
 
 ![image](https://user-images.githubusercontent.com/81119854/130331162-7ae51828-e4d6-4e17-b561-ce5eb15c8952.png)
+
+6. Qual o tamanho médio das salas dos imóveis por ano de construção? 
+
+![image](https://user-images.githubusercontent.com/81119854/130331366-2389a2f0-6f93-404f-a6a9-fd759f342f7b.png)
