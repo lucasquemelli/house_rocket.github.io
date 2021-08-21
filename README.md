@@ -439,3 +439,11 @@ Se observarmos o dataframe, veremos que o formato do campo 'date' foi alterado, 
 Para exibir apenas o ano, usamos o código:
 
 ![image](https://user-images.githubusercontent.com/81119854/130331884-5fec2fa7-4803-4b86-8a89-3f264f357b51.png)
+
+O conjunto de dados:
+
+![image](https://user-images.githubusercontent.com/81119854/130332005-0ad2da09-40d3-4d23-a68c-eebdba066e59.png)
+
+Contudo, para fazer um gráfico, precisamos resetar o index:
+
+![image](https://user-images.githubusercontent.com/81119854/130332024-493d5158-dfd2-4627-959f-e6de9100c856.png)
