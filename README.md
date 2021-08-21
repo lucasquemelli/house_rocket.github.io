@@ -490,3 +490,8 @@ Se quisermos aumentar:
 
 ![image](https://user-images.githubusercontent.com/81119854/130336401-e1a98874-14e1-4c26-9fbc-4ff778adc390.png)
 
+- Salvando em html para criar link de acesso:
+
+![image](https://user-images.githubusercontent.com/81119854/130336461-2a528914-1c2a-4982-84bb-0fd6dbfe03fb.png)
+
+[Mapa para identificar casas com maior preço.](http://localhost:8888/view/Desktop/fig_house_rocket.html)
