@@ -388,3 +388,10 @@ Outra forma de resolver é:
 1. Qual o número de imóveis por ano de construção?
 
 ![image](https://user-images.githubusercontent.com/81119854/130328000-f0246eee-6725-4cc1-a0dc-297d598eca24.png)
+
+2. Qual o menor número de quartos por ano de construção?
+
+![image](https://user-images.githubusercontent.com/81119854/130330486-95ea7461-8a72-44f6-b345-da541b472b7c.png)
+
+3. Qual o preço de compra mais alto por cada número de quarto?
+
