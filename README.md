@@ -451,3 +451,9 @@ Contudo, para fazer um gráfico, precisamos resetar o index:
 Para plotar, então, fazemos:
 
 ![image](https://user-images.githubusercontent.com/81119854/130332185-34b4c282-4c0e-4299-a61c-5e4c1b060f2e.png)
+
+Se quisermos aumentar:
+
+![image](https://user-images.githubusercontent.com/81119854/130332289-64e9e663-7840-46f5-9ef8-c91d3491f6ab.png)
+
+![image](https://user-images.githubusercontent.com/81119854/130332298-bbeb0cb0-8682-4bd9-ae04-d44680058507.png)
