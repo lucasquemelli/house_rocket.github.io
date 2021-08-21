@@ -395,3 +395,4 @@ Outra forma de resolver é:
 
 3. Qual o preço de compra mais alto por cada número de quarto?
 
+![image](https://user-images.githubusercontent.com/81119854/130330621-9a34e276-35d5-433d-aac7-8536de357afa.png)
