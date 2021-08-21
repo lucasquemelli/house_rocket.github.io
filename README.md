@@ -465,3 +465,9 @@ Se quisermos aumentar:
 ![image](https://user-images.githubusercontent.com/81119854/130332796-a7ae3cc2-b6db-407c-bad7-d9772f749e1c.png)
 
 ![image](https://user-images.githubusercontent.com/81119854/130332717-7f8a54de-cd79-484c-a4cb-e6158413dfcf.png)
+
+![image](https://user-images.githubusercontent.com/81119854/130332836-cadad63f-1056-4c7a-a301-d2f4398408c6.png)
+
+![image](https://user-images.githubusercontent.com/81119854/130333037-742bbd0a-782e-4c83-9c95-6e9837472135.png)
+
+![image](https://user-images.githubusercontent.com/81119854/130333042-a93c3338-6ad6-404b-beb9-9b2d199d7f59.png)
