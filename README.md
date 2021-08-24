@@ -591,3 +591,4 @@ Com índice:
 ![image](https://user-images.githubusercontent.com/81119854/130694604-10453e39-3809-4757-b134-a166f5353aef.png)
 ![image](https://user-images.githubusercontent.com/81119854/130694642-b9b300df-3319-4e8d-bec3-ebf49a51148d.png)
 
+10. Faça um gráfico com o tamanho dos pontos sendo igual ao tamanho da sala de estar.
