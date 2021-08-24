@@ -597,3 +597,9 @@ Com índice:
 
 ![image](https://user-images.githubusercontent.com/81119854/130696334-fa636905-01bc-4d0b-8520-900467e02992.png)
 
+Salvando em html:
+
+![image](https://user-images.githubusercontent.com/81119854/130696554-d8cb84b5-d272-4986-be76-8e3af55ea8a0.png)
+
+[Mapa para identificação do tamanho das casas pelo tamanho da sala de estar.](http://localhost:8888/view/Desktop/sqft_size_house_rocket.html)
+
