@@ -571,3 +571,10 @@ Com outra biblioteca:
 6. Faça um tabela que mostre a média dos preços por ano de construção e tipo de dormitórios dos imóveis.
 
 ![image](https://user-images.githubusercontent.com/81119854/130689690-5be1f9f6-8e5a-44d8-8bd8-ee39cdd8270f.png)
+
+Com índice:
+
+![image](https://user-images.githubusercontent.com/81119854/130689909-efb59732-dc05-48b8-b3cb-5f916e4f19fd.png)
+
+7. Crie um Dashboard com os gráficos das questões 02, 03, 04 (Dashboard: 1 Linha e 3 colunas).
+
