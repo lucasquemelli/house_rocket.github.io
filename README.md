@@ -580,3 +580,8 @@ Com índice:
 
 ![image](https://user-images.githubusercontent.com/81119854/130693182-1a345e47-8fea-4d2f-aefd-55a19be770da.png)
 ![image](https://user-images.githubusercontent.com/81119854/130693208-4bbff76b-a40a-4439-af13-87230aa732fc.png)
+
+8. Crie um Dashboard com os gráficos das perguntas 02, 04 (Dashboard: 2 colunas)
+
+![image](https://user-images.githubusercontent.com/81119854/130693662-82b99a62-94b1-43ec-a37f-0005a2e9b9f8.png)
+![image](https://user-images.githubusercontent.com/81119854/130693693-6da9a9f1-a9e3-4415-bcc2-4ae3942da151.png)
