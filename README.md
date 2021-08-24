@@ -522,3 +522,4 @@ Também podemos construir um gráfico de barras com outra biblioteca:
 ![image](https://user-images.githubusercontent.com/81119854/130662753-3678ac83-512a-4818-8b8d-6fad75775ffe.png)
 ![image](https://user-images.githubusercontent.com/81119854/130662801-4bbe4713-8c8d-4d4d-aae3-a2557afbeb51.png)
 
+3. Faça um gráfico de linhas que represente a média dos preços pelo ano construção dos imóveis.
