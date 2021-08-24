@@ -543,3 +543,6 @@ Podemos fazer uma nova classificação que não inclua esses componentes:
 ![image](https://user-images.githubusercontent.com/81119854/130683650-d93bd530-7dee-4be9-87fb-0d4d56855093.png)
 
 Agora podemos plotar o gráfico:
+
+![image](https://user-images.githubusercontent.com/81119854/130684135-2b8b5bb7-559c-49d8-ac79-33d292fb8d70.png)
+![image](https://user-images.githubusercontent.com/81119854/130684160-94a436bf-6466-4888-b251-8b91d8a44e47.png)
