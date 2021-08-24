@@ -546,3 +546,8 @@ Agora podemos plotar o gráfico:
 
 ![image](https://user-images.githubusercontent.com/81119854/130684135-2b8b5bb7-559c-49d8-ac79-33d292fb8d70.png)
 ![image](https://user-images.githubusercontent.com/81119854/130684160-94a436bf-6466-4888-b251-8b91d8a44e47.png)
+
+Com outra biblioteca:
+
+![image](https://user-images.githubusercontent.com/81119854/130684686-ecd56b11-2090-493a-a125-8e78eb61ef46.png)
+![image](https://user-images.githubusercontent.com/81119854/130684735-6373175e-e402-4491-baba-bdc4f2d18fa1.png)
