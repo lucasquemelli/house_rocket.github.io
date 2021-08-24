@@ -585,3 +585,6 @@ Com índice:
 
 ![image](https://user-images.githubusercontent.com/81119854/130693662-82b99a62-94b1-43ec-a37f-0005a2e9b9f8.png)
 ![image](https://user-images.githubusercontent.com/81119854/130693693-6da9a9f1-a9e3-4415-bcc2-4ae3942da151.png)
+
+9. Crie um Dashboard com os gráficos das perguntas 03, 05 (Dashboard: 2 Linhas)
+
