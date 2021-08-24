@@ -498,3 +498,13 @@ Se quisermos aumentar:
 
 # Perguntas e pedidos 5.0
 
+1. Crie uma nova coluna chamada: “dormitory_type”.
+
+• Se o valor da coluna “bedrooms” for igual a 1 => ‘studio’.
+• Se o valor da coluna “bedrooms” for igual a 2 => ‘apartament’.
+• Se o valor da coluna “bedrooms” for maior que 2 => ‘house’.
+
+![image](https://user-images.githubusercontent.com/81119854/130656689-55edb7e5-eab4-4767-9600-7687f989a855.png)
+
+2. Faça um gráfico de barras que represente a soma dos preços pelo número de quartos.
+
