@@ -562,3 +562,8 @@ O gráfico:
 
 ![image](https://user-images.githubusercontent.com/81119854/130688214-6d5ba386-8aca-4c72-a355-c4d22b87ddf4.png)
 ![image](https://user-images.githubusercontent.com/81119854/130688249-fae65898-a0f5-4896-bba0-3cec95859f79.png)
+
+Com outra biblioteca:
+
+![image](https://user-images.githubusercontent.com/81119854/130688894-a189748e-22d7-44bf-9f0f-5d818b6f4d3b.png)
+![image](https://user-images.githubusercontent.com/81119854/130688935-27e0a416-aaa7-4a56-9039-6304c247aa74.png)
