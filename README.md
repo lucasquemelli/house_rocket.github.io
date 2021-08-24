@@ -508,7 +508,7 @@ Se quisermos aumentar:
 
 2. Faça um gráfico de barras que represente a soma dos preços pelo número de quartos.
 
-- Podemos visualizar o conjunto de dados a ser plotado:
+Podemos visualizar o conjunto de dados a ser plotado:
 
 ![image](https://user-images.githubusercontent.com/81119854/130661167-62889251-e35b-4312-be82-55cbfe5582d5.png)
 
@@ -516,4 +516,9 @@ Note que o valor da soma total para os preços de apartamentos com 3 e 4 quartos
 
 ![image](https://user-images.githubusercontent.com/81119854/130661728-87887802-ff8a-4349-a640-d03f3e42500f.png)
 ![image](https://user-images.githubusercontent.com/81119854/130661763-fcccd6cb-79a4-4dfd-9156-dcb63fa18f32.png)
+
+Também podemos construir um gráfico de barras com outra biblioteca:
+
+![image](https://user-images.githubusercontent.com/81119854/130662753-3678ac83-512a-4818-8b8d-6fad75775ffe.png)
+![image](https://user-images.githubusercontent.com/81119854/130662801-4bbe4713-8c8d-4d4d-aae3-a2557afbeb51.png)
 
