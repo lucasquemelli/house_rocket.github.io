@@ -557,3 +557,8 @@ Com outra biblioteca:
 O conjunto de dados:
 
 ![image](https://user-images.githubusercontent.com/81119854/130685878-bbab62af-063e-436b-81fa-66e1206fc54c.png)
+
+O gráfico:
+
+![image](https://user-images.githubusercontent.com/81119854/130688214-6d5ba386-8aca-4c72-a355-c4d22b87ddf4.png)
+![image](https://user-images.githubusercontent.com/81119854/130688249-fae65898-a0f5-4896-bba0-3cec95859f79.png)
