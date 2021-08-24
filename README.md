@@ -578,3 +578,5 @@ Com índice:
 
 7. Crie um Dashboard com os gráficos das questões 02, 03, 04 (Dashboard: 1 Linha e 3 colunas).
 
+![image](https://user-images.githubusercontent.com/81119854/130693182-1a345e47-8fea-4d2f-aefd-55a19be770da.png)
+![image](https://user-images.githubusercontent.com/81119854/130693208-4bbff76b-a40a-4439-af13-87230aa732fc.png)
