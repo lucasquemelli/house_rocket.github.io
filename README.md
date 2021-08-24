@@ -526,3 +526,8 @@ Também podemos construir um gráfico de barras com outra biblioteca:
 
 ![image](https://user-images.githubusercontent.com/81119854/130681791-b02cd76d-be04-4ae4-8eeb-df85e98ad9d0.png)
 ![image](https://user-images.githubusercontent.com/81119854/130681834-8d1998a1-6695-45e8-a36b-f4b868d315ed.png)
+
+Com outra biblioteca:
+
+![image](https://user-images.githubusercontent.com/81119854/130682242-8de652b6-65cd-4c2b-a444-b1f850cee5e2.png)
+![image](https://user-images.githubusercontent.com/81119854/130682282-c4b8bec8-3cad-448d-891f-8db450d9f7cc.png)
