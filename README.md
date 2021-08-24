@@ -531,3 +531,15 @@ Com outra biblioteca:
 
 ![image](https://user-images.githubusercontent.com/81119854/130682242-8de652b6-65cd-4c2b-a444-b1f850cee5e2.png)
 ![image](https://user-images.githubusercontent.com/81119854/130682282-c4b8bec8-3cad-448d-891f-8db450d9f7cc.png)
+
+4. Faça um gráfico de barras que represente a média dos preços pelo tipo dos dormitórios.
+
+Para resolver este problema, primeiro precisamos ver que na questão 1, a forma de classificação de dormitórios resultou em linhas do tipo 'NA'.
+
+![image](https://user-images.githubusercontent.com/81119854/130683386-b5a651c3-d8c8-4413-9f2a-00bc2dd1248c.png)
+
+Podemos fazer uma nova classificação que não inclua esses componentes:
+
+![image](https://user-images.githubusercontent.com/81119854/130683650-d93bd530-7dee-4be9-87fb-0d4d56855093.png)
+
+Agora podemos plotar o gráfico:
