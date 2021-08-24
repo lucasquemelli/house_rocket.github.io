@@ -551,3 +551,9 @@ Com outra biblioteca:
 
 ![image](https://user-images.githubusercontent.com/81119854/130684686-ecd56b11-2090-493a-a125-8e78eb61ef46.png)
 ![image](https://user-images.githubusercontent.com/81119854/130684735-6373175e-e402-4491-baba-bdc4f2d18fa1.png)
+
+5. Faça um gráfico de linha que mostre a evolução da média dos preços pelo ano da reforma dos imóveis, a partir do ano de 1930.
+
+O conjunto de dados:
+
+![image](https://user-images.githubusercontent.com/81119854/130685878-bbab62af-063e-436b-81fa-66e1206fc54c.png)
