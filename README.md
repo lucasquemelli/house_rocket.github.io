@@ -33,7 +33,7 @@ Em seguida, para melhorar a tomada de decisão, o CEO acrescentou as seguintes p
 14. Das casas com vista para o mar, quantas tem 3 quartos?
 15. Das casas com mais de 300 metros quadrados de sala de estar, quantas tem mais de 2 banheiros?
 
-# Respostas ao CEO
+# Perguntas e pedidos 1.0
 
 Para responder as perguntas do CEO, primeiro importamos as bibliotecas:
 
@@ -150,7 +150,7 @@ Ou podemos calcular de forma mais direta:
 
 ![image](https://user-images.githubusercontent.com/81119854/129605468-5057da56-6075-43fa-8edf-2690840a3a7f.png)
 
-# Perguntas e pedidos 1.0
+# Perguntas e pedidos 2.0
 
 O CEO passou novas perguntas. As perguntas e as respostas podem ser vistas abaixo:
 
@@ -237,7 +237,7 @@ Para apresentar para o CEO, o ideal é que o mapa possa ser acessado no browser.
 
 [Mapa de imóveis da empresa House Rocket](http://localhost:8888/view/Desktop/mapa_house_rocket.html)
 
-# Perguntas e pedidos 2.0
+# Perguntas e pedidos 3.0
 
 O CEO passou novas perguntas. As perguntas e as respostas podem ser vistas abaixo.
 
@@ -381,7 +381,7 @@ Outra forma de resolver é:
 
 ![image](https://user-images.githubusercontent.com/81119854/130151751-0bc40189-f7a0-4a6a-bb8d-b3604d530cd8.png)
 
-# Perguntas e pedidos 3.0
+# Perguntas e pedidos 4.0
 
 ![image](https://user-images.githubusercontent.com/81119854/130327545-e562c205-c991-4ccf-bec7-f87543159756.png)
 
@@ -495,3 +495,6 @@ Se quisermos aumentar:
 ![image](https://user-images.githubusercontent.com/81119854/130336461-2a528914-1c2a-4982-84bb-0fd6dbfe03fb.png)
 
 [Mapa para identificar casas com maior preço.](http://localhost:8888/view/Desktop/fig_house_rocket.html)
+
+# Perguntas e pedidos 5.0
+
