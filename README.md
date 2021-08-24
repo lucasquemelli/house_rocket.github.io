@@ -570,3 +570,4 @@ Com outra biblioteca:
 
 6. Faça um tabela que mostre a média dos preços por ano de construção e tipo de dormitórios dos imóveis.
 
+![image](https://user-images.githubusercontent.com/81119854/130689690-5be1f9f6-8e5a-44d8-8bd8-ee39cdd8270f.png)
