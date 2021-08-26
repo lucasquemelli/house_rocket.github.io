@@ -626,3 +626,8 @@ Salvando em html:
 - O nome da Cidade
 - O nome da Estado
 
+![image](https://user-images.githubusercontent.com/81119854/131003842-bc245a15-7a6d-46f7-ac50-46796fd97d87.png)
+
+Testando as primeiras coordenadas:
+
+![image](https://user-images.githubusercontent.com/81119854/131003939-c3828d0d-bfc1-495c-a97d-00701d02b5ca.png)
