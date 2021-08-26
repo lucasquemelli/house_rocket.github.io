@@ -617,3 +617,12 @@ Salvando em html:
 ![image](https://user-images.githubusercontent.com/81119854/130961165-e0ead847-993b-4a4a-a667-a7650556f9f5.png)
 
 ![image](https://user-images.githubusercontent.com/81119854/130961262-92e99165-b710-4810-bdd3-48300d88803b.png)
+
+2. Adicione as seguintes informações ao imóvel:
+
+- O nome da Rua
+- O número do imóvel
+- O nome do Bairro
+- O nome da Cidade
+- O nome da Estado
+
