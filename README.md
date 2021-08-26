@@ -631,3 +631,7 @@ Salvando em html:
 Testando as primeiras coordenadas:
 
 ![image](https://user-images.githubusercontent.com/81119854/131003939-c3828d0d-bfc1-495c-a97d-00701d02b5ca.png)
+
+![image](https://user-images.githubusercontent.com/81119854/131004067-3095beb9-937f-44ad-bf46-4c06172d6ea7.png)
+
+![image](https://user-images.githubusercontent.com/81119854/131004144-ebc7e727-82c0-4644-9b9c-0c81061f0e8f.png)
