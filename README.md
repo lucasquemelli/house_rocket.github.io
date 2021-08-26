@@ -652,3 +652,7 @@ Testando as primeiras coordenadas:
 ![image](https://user-images.githubusercontent.com/81119854/131009153-5266daf1-5aac-456b-88b1-1deaeffdaf28.png)
 
 ![image](https://user-images.githubusercontent.com/81119854/131009194-50ddcbbb-968c-4dbf-8eae-ad10d1e4676d.png)
+
+![image](https://user-images.githubusercontent.com/81119854/131009413-c7cee5dd-d807-49c6-80bc-52844ba39d67.png)
+
+[Mapa com cores para diferentes níveis.](http://localhost:8888/view/Desktop/interactive_color_houses.html)
