@@ -646,6 +646,7 @@ Testando as primeiras coordenadas:
 ![image](https://user-images.githubusercontent.com/81119854/131004503-7f0a150b-61d0-47a3-980e-c4633faef38e.png)
 
 3. Adicionar o nível dos imóveis no mapa como uma cor.
+4. Adicionar o preço dos imóveis como o tamanho do ponto no mapa.
 
 ![image](https://user-images.githubusercontent.com/81119854/131008662-3bb6c262-c2c7-44d3-a842-26e9a3426e77.png)
 
