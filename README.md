@@ -635,3 +635,10 @@ Testando as primeiras coordenadas:
 ![image](https://user-images.githubusercontent.com/81119854/131004067-3095beb9-937f-44ad-bf46-4c06172d6ea7.png)
 
 ![image](https://user-images.githubusercontent.com/81119854/131004144-ebc7e727-82c0-4644-9b9c-0c81061f0e8f.png)
+
+![image](https://user-images.githubusercontent.com/81119854/131004214-d351b998-10ee-4e8f-aff6-1d429eedce36.png)
+
+![image](https://user-images.githubusercontent.com/81119854/131004259-71665f3b-d317-4795-a480-f079e145fa54.png)
+
+![image](https://user-images.githubusercontent.com/81119854/131004329-6bb7a265-71fd-4753-9cfc-64cbfe6acbe1.png)
+![image](https://user-images.githubusercontent.com/81119854/131004414-bbba5b85-e203-4045-bcca-2675ae0fda84.png)
