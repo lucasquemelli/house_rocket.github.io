@@ -603,3 +603,19 @@ Salvando em html:
 
 [Mapa para identificação do tamanho das casas pelo tamanho da sala de estar.](http://localhost:8888/view/Desktop/sqft_size_house_rocket.html)
 
+# Perguntas e pedidos 6.0
+
+1. Qual a quantidade de imóveis por nível?
+
+- Nivel 0: Preço entre R$ 0.00 e R$ 321.950.
+- Nivel 1: Preço entre R$ 321.950 e R$ 450.000.
+- Nivel 2: Preço entre R$ 450.000 e R$ 645.000.
+- Nivel 3: Preço acima de R$ 645.000.
+
+![image](https://user-images.githubusercontent.com/81119854/130961112-c46c8e7e-b5e7-475b-98bc-36ab003ffe17.png)
+
+![image](https://user-images.githubusercontent.com/81119854/130961165-e0ead847-993b-4a4a-a667-a7650556f9f5.png)
+
+![image](https://user-images.githubusercontent.com/81119854/130961193-783530e6-5688-4831-8034-61597117f585.png)
+
+![image](https://user-images.githubusercontent.com/81119854/130961262-92e99165-b710-4810-bdd3-48300d88803b.png)
