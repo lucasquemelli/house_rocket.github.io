@@ -668,3 +668,10 @@ Testando as primeiras coordenadas:
 ![image](https://user-images.githubusercontent.com/81119854/131013921-643a637c-c89b-456c-a8e2-fe451bb1b18c.png)
 
 ![image](https://user-images.githubusercontent.com/81119854/131013973-fec26ab7-bdea-4fc1-9ade-6720fce64bb2.png)
+
+![image](https://user-images.githubusercontent.com/81119854/131016761-7d096c9b-72c4-499c-85b7-b38def7162d8.png)
+
+![image](https://user-images.githubusercontent.com/81119854/131017650-0dbc4148-a5e9-4384-80fa-5f05c64f69f3.png)
+![image](https://user-images.githubusercontent.com/81119854/131017727-d0e3d926-8fee-468c-90cf-0bbafec1707b.png)
+
+![image](https://user-images.githubusercontent.com/81119854/131017800-e9fc634e-169f-4021-886e-016c2a2ec1a3.png)
