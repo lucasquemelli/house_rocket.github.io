@@ -675,3 +675,13 @@ Testando as primeiras coordenadas:
 ![image](https://user-images.githubusercontent.com/81119854/131017727-d0e3d926-8fee-468c-90cf-0bbafec1707b.png)
 
 ![image](https://user-images.githubusercontent.com/81119854/131017800-e9fc634e-169f-4021-886e-016c2a2ec1a3.png)
+
+6. Adicionar opções de filtros no último dashboard enviado:
+
+- Eu quero visualizar somente valor a partir de um data disponível para compra.
+
+![image](https://user-images.githubusercontent.com/81119854/131047469-2cfe07ac-88e7-43df-9de8-a034d33ab4df.png)
+
+![image](https://user-images.githubusercontent.com/81119854/131047496-472197ad-5e23-4bd9-928d-0fba7de31fdc.png)
+
+![image](https://user-images.githubusercontent.com/81119854/131047531-316e1690-0f6b-442a-9e43-d82aab2bad58.png)
