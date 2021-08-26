@@ -663,3 +663,8 @@ Testando as primeiras coordenadas:
 - Eu quero escolher visualizar imóveis com vista para água ou não.
 - Eu quero filtrar os imóveis até um certo valor de preço.
 
+![image](https://user-images.githubusercontent.com/81119854/131013889-a4715984-e997-4c89-93f7-d82a3ebdb41f.png)
+
+![image](https://user-images.githubusercontent.com/81119854/131013921-643a637c-c89b-456c-a8e2-fe451bb1b18c.png)
+
+![image](https://user-images.githubusercontent.com/81119854/131013973-fec26ab7-bdea-4fc1-9ade-6720fce64bb2.png)
