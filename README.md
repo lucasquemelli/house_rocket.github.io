@@ -657,3 +657,9 @@ Testando as primeiras coordenadas:
 ![image](https://user-images.githubusercontent.com/81119854/131009413-c7cee5dd-d807-49c6-80bc-52844ba39d67.png)
 
 [Mapa com cores para diferentes níveis.](http://localhost:8888/view/Desktop/interactive_color_houses.html)
+
+5. Adicionar opções de filtros para eu fazer minhas próprias análises:
+
+- Eu quero escolher visualizar imóveis com vista para água ou não.
+- Eu quero filtrar os imóveis até um certo valor de preço.
+
