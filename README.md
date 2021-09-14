@@ -685,3 +685,19 @@ Testando as primeiras coordenadas:
 ![image](https://user-images.githubusercontent.com/81119854/131047496-472197ad-5e23-4bd9-928d-0fba7de31fdc.png)
 
 ![image](https://user-images.githubusercontent.com/81119854/131047531-316e1690-0f6b-442a-9e43-d82aab2bad58.png)
+
+# Perguntas e pedidos 7.0
+
+Um portfólio da House Rocket que tenha sido colocado em produção* com as seguintes características:
+
+- (1) Filtros dos imóveis por uma ou várias regiões;
+- (2) Escolher uma ou mais variáveis para visualizar;
+- (3) Observar o número total de imóveis, a média de preço, a média de sala de estar e também a média do preço por metro quadrado em cada um dos códigos postais;
+- (4) Analisar cada uma das colunas de um modo mais descritivo;
+- (5) Um mapa com a densidade de portfólio por região e também com a densidade do preço;
+- (6) Checar a variação anual e diária de preço;
+- (7) Conferir a distribuição dos imóveis por: preço, número de quartos, número de banheiros, número de andares, vista para água ou não.
+
+*Colocar em produção: nome que se dá para a prática de colocar o que está no nosso computador em um servidor que esteja disponível para outras pessoas 24/7.
+
+[Portfólio da empresa House Rocket.](http://localhost:8501/)
