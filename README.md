@@ -700,4 +700,4 @@ Um portfólio da House Rocket que tenha sido colocado em produção* com as segu
 
 *Colocar em produção: nome que se dá para a prática de colocar o que está no nosso computador em um servidor que esteja disponível para outras pessoas 24/7.
 
-[Portfólio da empresa House Rocket.](http://localhost:8501/)
+[Portfólio da empresa House Rocket com os critérios acima.](http://localhost:8501/)
