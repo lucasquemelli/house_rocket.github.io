@@ -698,6 +698,6 @@ Um portfólio da House Rocket que tenha sido colocado em produção* com as segu
 - (6) Checar a variação anual e diária de preço;
 - (7) Conferir a distribuição dos imóveis por: preço, número de quartos, número de banheiros, número de andares, vista para água ou não.
 
-*Colocar em produção: nome que se dá para a prática de colocar o que está no nosso computador em um servidor que esteja disponível para outras pessoas 24/7.
+*Colocar em produção: nome que se dá para a prática de publicar o que está no nosso computador em um servidor que esteja disponível para outras pessoas 24/7.
 
 [Portfólio da empresa House Rocket pedido pelo CEO.](https://house-rocket-lucasquemelli.herokuapp.com/)
