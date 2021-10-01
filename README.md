@@ -698,6 +698,15 @@ Um portfólio da House Rocket que tenha sido colocado em produção* com as segu
 - (6) Checar a variação anual e diária de preço;
 - (7) Conferir a distribuição dos imóveis por: preço, número de quartos, número de banheiros, número de andares, vista para água ou não.
 
-*Colocar em produção: nome que se dá para a prática de publicar o que está no nosso computador em um servidor que esteja disponível para outras pessoas 24/7.
+*Colocar em produção: nome que se dá para a prática de publicar o que está no nosso computador em um servidor que esteja disponível para outras pessoas 24/7.*
 
 [Portfólio da empresa House Rocket pedido pelo CEO.](https://house-rocket-lucasquemelli.herokuapp.com/)
+
+# Projeto de Insights
+
+Para finalizar, o CEO passou duas perguntas para serem solucionadas a partir de insights:
+
+- (1) - Quais são os imóveis que a House Rocket deveria comprar e por qual preço?
+- (2) - Uma vez o imóvel comprado, qual o melhor momento para vendê-lo e por qual preço?
+
+A entrega deste projeto será feita por e-mail com 04 planilhas - uma para cada questão de negócio. 
