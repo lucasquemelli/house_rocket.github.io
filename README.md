@@ -704,7 +704,7 @@ Um portfólio da House Rocket que tenha sido colocado em produção* com as segu
 
 # Projeto de Insights
 
-Para finalizar, o CEO passou duas perguntas para serem solucionadas a partir de insights:
+Para finalizar, o CEO passou duas perguntas para serem solucionadas a partir de insights (sem utilização de modelo de Machine Learning):
 
 - (1) - Quais são os imóveis que a House Rocket deveria comprar e por qual preço?
 - (2) - Uma vez o imóvel comprado, qual o melhor momento para vendê-lo e por qual preço?
